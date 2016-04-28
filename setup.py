@@ -25,7 +25,7 @@ setup(
     version='2.5.7',
     description='A Bootstrap theme for Django Admin',
     long_description=open(os.path.join(os.path.dirname(__file__), 'README.md')).read(),
-    url='https://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible',
+    url='https://github.com/cesar5792/django-admin-bootstrapped-1.9-compatible',
     license='BSD License',
     platforms=['OS Independent'],
     classifiers=CLASSIFIERS,
@@ -34,7 +34,7 @@ setup(
         'Django>=1.9',
     ],
     dependencies = [
-    'https://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped'
+    'https://github.com/cesar57927/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped'
     ],
     test_suite='django_admin_bootstrapped.runtests.runtests',
     packages=find_packages(),
