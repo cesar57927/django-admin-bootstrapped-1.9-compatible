@@ -8,13 +8,13 @@ Installation
 ------------
 
 ```bash
-pip install -e git+git://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped
+pip install -e git+git://github.com/cesar57927/django-admin-bootstrapped-1.9-compatible.git@master#egg=django_admin_bootstrapped
 ```
  
  OR
  
 ```bash
-git clone https://github.com/hellpanderrr/django-admin-bootstrapped-1.9-compatible
+git clone https://github.com/cesar57927/django-admin-bootstrapped-1.9-compatible
 cd  django-admin-bootstrapped-1.9-compatible
 pip install -e .
 ```
